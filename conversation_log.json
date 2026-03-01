@@ -1,0 +1,206 @@
+{
+  "summary": {
+    "total_calls": 28,
+    "total_input_tokens": 36642,
+    "total_output_tokens": 24984,
+    "execution_time": 2448.6398360729218
+  },
+  "calls": [
+    {
+      "agent": "plaintiff",
+      "iteration": 0,
+      "input_tokens": 464,
+      "output_tokens": 992,
+      "timestamp": 1771771544.750818
+    },
+    {
+      "agent": "critic",
+      "iteration": 0,
+      "input_tokens": 1293,
+      "output_tokens": 1412,
+      "timestamp": 1771771669.3101451
+    },
+    {
+      "agent": "librarian",
+      "iteration": 0,
+      "input_tokens": 225,
+      "output_tokens": 0,
+      "timestamp": 1771771768.672349
+    },
+    {
+      "agent": "juror_1",
+      "iteration": 0,
+      "input_tokens": 694,
+      "output_tokens": 791,
+      "timestamp": 1771771832.18793
+    },
+    {
+      "agent": "juror_2",
+      "iteration": 0,
+      "input_tokens": 694,
+      "output_tokens": 923,
+      "timestamp": 1771771904.314589
+    },
+    {
+      "agent": "juror_3",
+      "iteration": 0,
+      "input_tokens": 694,
+      "output_tokens": 886,
+      "timestamp": 1771771995.262648
+    },
+    {
+      "agent": "juror_4",
+      "iteration": 0,
+      "input_tokens": 694,
+      "output_tokens": 813,
+      "timestamp": 1771772064.571091
+    },
+    {
+      "agent": "judge",
+      "iteration": 0,
+      "input_tokens": 2707,
+      "output_tokens": 622,
+      "timestamp": 1771772104.5932002
+    },
+    {
+      "agent": "memory",
+      "iteration": 0,
+      "input_tokens": 121,
+      "output_tokens": 428,
+      "timestamp": 1771772143.2133608
+    },
+    {
+      "agent": "plaintiff",
+      "iteration": 1,
+      "input_tokens": 884,
+      "output_tokens": 905,
+      "timestamp": 1771772227.515459
+    },
+    {
+      "agent": "critic",
+      "iteration": 1,
+      "input_tokens": 1630,
+      "output_tokens": 1342,
+      "timestamp": 1771772325.388691
+    },
+    {
+      "agent": "librarian",
+      "iteration": 1,
+      "input_tokens": 225,
+      "output_tokens": 0,
+      "timestamp": 1771772385.084605
+    },
+    {
+      "agent": "juror_1",
+      "iteration": 1,
+      "input_tokens": 694,
+      "output_tokens": 1380,
+      "timestamp": 1771772452.519009
+    },
+    {
+      "agent": "juror_2",
+      "iteration": 1,
+      "input_tokens": 694,
+      "output_tokens": 1328,
+      "timestamp": 1771772575.842819
+    },
+    {
+      "agent": "juror_3",
+      "iteration": 1,
+      "input_tokens": 694,
+      "output_tokens": 1031,
+      "timestamp": 1771772659.9944289
+    },
+    {
+      "agent": "juror_4",
+      "iteration": 1,
+      "input_tokens": 694,
+      "output_tokens": 894,
+      "timestamp": 1771772749.734931
+    },
+    {
+      "agent": "judge",
+      "iteration": 1,
+      "input_tokens": 3692,
+      "output_tokens": 887,
+      "timestamp": 1771772862.7626681
+    },
+    {
+      "agent": "memory",
+      "iteration": 1,
+      "input_tokens": 185,
+      "output_tokens": 592,
+      "timestamp": 1771772949.605094
+    },
+    {
+      "agent": "plaintiff",
+      "iteration": 2,
+      "input_tokens": 1048,
+      "output_tokens": 1168,
+      "timestamp": 1771773161.647715
+    },
+    {
+      "agent": "critic",
+      "iteration": 2,
+      "input_tokens": 2057,
+      "output_tokens": 2030,
+      "timestamp": 1771773343.0911438
+    },
+    {
+      "agent": "librarian",
+      "iteration": 2,
+      "input_tokens": 225,
+      "output_tokens": 0,
+      "timestamp": 1771773421.448704
+    },
+    {
+      "agent": "juror_1",
+      "iteration": 2,
+      "input_tokens": 685,
+      "output_tokens": 1345,
+      "timestamp": 1771773510.2486222
+    },
+    {
+      "agent": "juror_2",
+      "iteration": 2,
+      "input_tokens": 685,
+      "output_tokens": 1327,
+      "timestamp": 1771773596.5136871
+    },
+    {
+      "agent": "juror_3",
+      "iteration": 2,
+      "input_tokens": 685,
+      "output_tokens": 802,
+      "timestamp": 1771773662.747481
+    },
+    {
+      "agent": "juror_4",
+      "iteration": 2,
+      "input_tokens": 685,
+      "output_tokens": 800,
+      "timestamp": 1771773721.028484
+    },
+    {
+      "agent": "judge",
+      "iteration": 2,
+      "input_tokens": 3650,
+      "output_tokens": 568,
+      "timestamp": 1771773787.845948
+    },
+    {
+      "agent": "memory",
+      "iteration": 2,
+      "input_tokens": 249,
+      "output_tokens": 587,
+      "timestamp": 1771773836.788598
+    },
+    {
+      "agent": "final",
+      "iteration": 3,
+      "input_tokens": 9695,
+      "output_tokens": 1131,
+      "timestamp": 1771773924.7738528
+    }
+  ]
+}
